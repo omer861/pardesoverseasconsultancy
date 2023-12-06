@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e4d338e.css",
-    "main.js": "/static/js/main.9f8f4386.js",
+    "main.css": "/static/css/main.015a7fa7.css",
+    "main.js": "/static/js/main.ac579264.js",
     "static/js/787.1937f22b.chunk.js": "/static/js/787.1937f22b.chunk.js",
     "static/media/Documenation assistance.jpg": "/static/media/Documenation assistance.b5e5e5d089b9ea58600d.jpg",
     "static/media/Tour.jpg": "/static/media/Tour.b51d2a0b0c45101553e0.jpg",
@@ -19,6 +19,7 @@
     "static/media/video7.mp4": "/static/media/video7.78cd74fa817f436d4bc6.mp4",
     "static/media/video11.mp4": "/static/media/video11.39bb1cb5ce17b613e3a3.mp4",
     "static/media/All country visa process.png": "/static/media/All country visa process.d0b0eb01c013531fc5c5.png",
+    "static/media/mosque.jpg": "/static/media/mosque.9a15ff25a819cccf59fc.jpg",
     "static/media/6.png": "/static/media/6.a4817264df7d4a22134f.png",
     "static/media/40.png": "/static/media/40.58c214da9f0df58ba80a.png",
     "static/media/32.png": "/static/media/32.b81f63cf7368d25148ad.png",
@@ -29,6 +30,7 @@
     "static/media/37.png": "/static/media/37.035b568dc0fef2dbd2fc.png",
     "static/media/3.png": "/static/media/3.22314b9700cc7b19a893.png",
     "static/media/5.png": "/static/media/5.cb5aa4ea8fa4589387aa.png",
+    "static/media/new logo.jpg": "/static/media/new logo.90565c74450ac2de3784.jpg",
     "static/media/7.png": "/static/media/7.49231ca8758ad8aa9a32.png",
     "static/media/41.png": "/static/media/41.0f5e1b10583b3b1657d4.png",
     "static/media/19.png": "/static/media/19.22ba37b278a5559497b3.png",
@@ -44,24 +46,16 @@
     "static/media/4.png": "/static/media/4.73ca9a8141d4d4d7dd64.png",
     "static/media/12.png": "/static/media/12.43efbf241a51b5c9bc26.png",
     "static/media/Certificate Attestation.jpg": "/static/media/Certificate Attestation.d07d0606e05b955ba42c.jpg",
-    "static/media/macca.jpg": "/static/media/macca.8b5806c1d5a5358e9046.jpg",
     "static/media/23.png": "/static/media/23.b33b768741f05fbd6021.png",
     "static/media/16.png": "/static/media/16.02072735638edcfdba0c.png",
     "static/media/18.png": "/static/media/18.f2eadf93f246bc048048.png",
     "static/media/20.png": "/static/media/20.163bccd82dc587bca63b.png",
     "static/media/29.png": "/static/media/29.163bccd82dc587bca63b.png",
     "static/media/27.png": "/static/media/27.e15845501f0f1e90e387.png",
-    "static/media/image1.png": "/static/media/image1.02bdecaf85f2dc5b288d.png",
+    "static/media/Algerian Regular.ttf": "/static/media/Algerian Regular.0e3406c6bf435307ed2b.ttf",
     "static/media/AIRTicketing.jpg": "/static/media/AIRTicketing.eafc830e9b7941ef42a6.jpg",
-    "static/media/17.png": "/static/media/17.b50fde2e91d1c44cdb7c.png",
-    "static/media/28.png": "/static/media/28.b50fde2e91d1c44cdb7c.png",
     "static/media/Global Visa.jpg": "/static/media/Global Visa.d8feafa1cc7d5ec780b0.jpg",
-    "static/media/13.png": "/static/media/13.f5ac15285f926e196871.png",
-    "static/media/24.png": "/static/media/24.f5ac15285f926e196871.png",
-    "static/media/31.png": "/static/media/31.04c5f8b35f6c576f8039.png",
-    "static/media/35.png": "/static/media/35.04c5f8b35f6c576f8039.png",
     "static/media/Student-Visa.jpg": "/static/media/Student-Visa.8e5d4f66ab9bd0b3844b.jpg",
-    "static/media/Passport-Seva.jpg": "/static/media/Passport-Seva.1dca167277c34ffcf052.jpg",
     "static/media/14.png": "/static/media/14.ad19ae36e98d7f37b3a8.png",
     "static/media/25.png": "/static/media/25.ad19ae36e98d7f37b3a8.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -69,12 +63,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.1e4d338e.css.map": "/static/css/main.1e4d338e.css.map",
-    "main.9f8f4386.js.map": "/static/js/main.9f8f4386.js.map",
+    "main.015a7fa7.css.map": "/static/css/main.015a7fa7.css.map",
+    "main.ac579264.js.map": "/static/js/main.ac579264.js.map",
     "787.1937f22b.chunk.js.map": "/static/js/787.1937f22b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e4d338e.css",
-    "static/js/main.9f8f4386.js"
+    "static/css/main.015a7fa7.css",
+    "static/js/main.ac579264.js"
   ]
 }
